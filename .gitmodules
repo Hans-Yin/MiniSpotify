@@ -1,0 +1,3 @@
+[submodule "Spotify"]
+	path = Spotify
+	url = https://github.com/Hans-Yin/MiniSpotify
